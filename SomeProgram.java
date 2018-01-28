@@ -4,8 +4,12 @@ public class SomeProgram {
 		System.out.println("We will be Git experts, soon."); //komentarz
 
     }
-	
 	public void manageTheRockets() {
     System.out.println("Frrrrr");
 }
+	public void manageTheSatellite() {
+     System.out.println("FDSFDSFDSGFDFG");
 }
+}
+
+
